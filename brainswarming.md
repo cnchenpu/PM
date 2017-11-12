@@ -32,3 +32,5 @@ __Basic Idea: The goal (the problem need to solve) and the available resource me
 # Whiteboard Collaboration Tools
 1. [AWW (A Web White Board)](https://awwapp.com/)
 2. [Real Time Board](https://realtimeboard.com/)
+
+![](https://cdn-images-1.medium.com/max/1000/0*NittZpfedfW-U922.)
