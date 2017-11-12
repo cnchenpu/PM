@@ -17,6 +17,7 @@ __Basic Idea: All ideas are thrown into the group, as more as possible, without 
 
 ## What idea is better?
 __SWOT Analysis__
+
     - Strengths
     - Weaknesses
     - Opportunities
