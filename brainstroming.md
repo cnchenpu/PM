@@ -1,4 +1,6 @@
 # Brainstorming Tips
+__Basic Idea: All ideas are thrown into the group without being rated__
+
 1. Defer judgment
 2. Encourage wild ideas
 3. Build on the ideas of others
