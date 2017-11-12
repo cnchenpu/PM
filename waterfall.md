@@ -5,16 +5,16 @@
 ![](https://www.tutorialspoint.com/sdlc/images/sdlc_waterfall_model.jpg)
 
 - Requirement Gathering and analysis 
- - output: spec documents
+  - output: spec documents
 - System Design 
- - output: system architecture - hardware and system requirements
+  - output: system architecture - hardware and system requirements
 - Implementation 
- - output: program units
+  - output: program units
 - Integration and Testing 
- - output: unit test and system integration 
+  - output: unit test and system integration 
 - Deployment of system 
- - output: product release
+  - output: product release
 - Maintenance 
- - output: feedback, bug-fixes and support
+  - output: feedback, bug-fixes and support
   
 
