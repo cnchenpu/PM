@@ -19,3 +19,16 @@ __Basic Idea: The goal (the problem need to solve) and the available resource me
 6. Important rule: don't talk, just write all ideas on Post-it notes.
 7. All collected ideas are pinned to the board.
 8. Connect between resources and ideas.
+
+## Example: Remove ice from power lines
+![](https://media.licdn.com/mpr/mpr/shrinknp_800_800/AAEAAQAAAAAAAAOhAAAAJDc1ZDg1NzAyLTU0MTUtNGIwZS05MDc4LTllNWIxNmM0ZWEwMw.jpg)
+
+## Example: Free truck from underpass
+![](https://media.licdn.com/mpr/mpr/shrinknp_800_800/p/4/005/07f/113/05e3deb.jpg)
+
+## Example: Saving Titanic passengers
+![](https://hbr.org/resources/images/article_assets/2015/11/R1512F_MCCAFFREY_OVERLOOKED.png)
+
+# Whiteboard Collaboration Tools
+1. [AWW (A Web White Board)](https://awwapp.com/)
+2. [Real Time Board](https://realtimeboard.com/)
