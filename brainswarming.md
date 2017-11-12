@@ -15,7 +15,7 @@ __Basic Idea: The goal (the problem need to solve) and the available resource me
 3. The resources are pinned at the bottom.
 4. Top-down thinkers will refine the goal and define their ideas from the top.
 5. Buttom-up thinker will use the resources to start thinking about how the problems can be solved.
-  - New resource can be added on bottom.
+    * New resource can be added on bottom.
 6. Important rule: don't talk, just write all ideas on Post-it notes.
 7. All collected ideas are pinned to the board.
 8. Connect between resources and ideas.
