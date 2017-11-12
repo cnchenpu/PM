@@ -1,11 +1,14 @@
 # Brainstroming vs. Brainswarming
 
-![](https://uberflip.cdntwrk.com/files/aHViPTYyODA5JmNtZD1pdGVtZWRpdG9yaW1hZ2UmZmlsZW5hbWU9aXRlbWVkaXRvcmltYWdlXzU3NDQyOTNkNzQ1NzgucG5nJnZlcnNpb249MDAwMCZzaWc9OGM2ZDNjZTc3ZjBmMmUwZmY3ZGVmMjU0ZjY3NDIxNTc%253D)
+![Group Creative Process](https://uberflip.cdntwrk.com/files/aHViPTYyODA5JmNtZD1pdGVtZWRpdG9yaW1hZ2UmZmlsZW5hbWU9aXRlbWVkaXRvcmltYWdlXzU3NDQyOTNkNzQ1NzgucG5nJnZlcnNpb249MDAwMCZzaWc9OGM2ZDNjZTc3ZjBmMmUwZmY3ZGVmMjU0ZjY3NDIxNTc%253D)
 
 - Disadvantage of brainstroming:
   - Single person or small groups may dominate the whole process just because they are more extroverted.
 
 # Brainswarming
+
+__Basic Idea: The goal (the problem need to solve) and the available resource meets in a solution.__
+
 1. Do not define problem but goal.
 2. Goal is pinned on top of the board.
 3. The resources are pinned at the bottom.
