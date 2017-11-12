@@ -17,11 +17,10 @@ __Basic Idea: All ideas are thrown into the group, as more as possible, without 
 
 ## What idea is better?
 __SWOT Analysis__
-
-    - Strengths
-    - Weaknesses
-    - Opportunities
-    - Threats
+- Strengths
+- Weaknesses
+- Opportunities
+- Threats
 
 ![SWOT](http://www.kstoolkit.org/file/view/swot.jpg/189685944/508x430/swot.jpg)
 
