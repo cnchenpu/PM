@@ -1,6 +1,7 @@
 # QA 
 
-# Test Case
+# Test Plan and Test Case
+![](fig/test-plan-template.png)
 
 # TestLink
 
